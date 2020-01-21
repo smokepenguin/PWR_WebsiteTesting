@@ -26,4 +26,5 @@ Assertion failed (`First name` input field contains a number!)
 # PHPUnit Testing
 
 Unit testing a function used by the website.
+
 <img src="./gif/phpunit.gif">
