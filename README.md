@@ -4,14 +4,9 @@ A modern responsive site with examples of `Selenium/PHPUnit` testing
 `Selenium` was used for automatically testing website, and `PHPUnit` was used for unit tests a function on the server side.
 
 # Preview
-Preview of a main site 
-
-<img src="./gif/site.gif" width="720">
-
-Responsivity on mobile devices
+Preview of the main site on a mobile device
 
 <img src="./gif/responsive.gif" width="480">
-
 
 # Selenium Testing
 
